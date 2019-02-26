@@ -4,7 +4,6 @@
  * Account.java
  * a password protected account for a bank, includes name, pin, balance and time
  * no dependencies
- * Prof. Steck's code, and robert the tutor for the math formula
  */
 
 import java.time.LocalDateTime;
