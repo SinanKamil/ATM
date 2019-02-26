@@ -4,7 +4,6 @@
  * GrossmontBank.java
  * A bank account class that can hold accounts and manipulate (like a bank teller or atm)
  * Dependencies: Account.java
- * Credit: Prof. Steck's code, and robert the tutor for the math formula
  */
 
 import java.util.Scanner;
